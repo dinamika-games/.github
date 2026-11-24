@@ -5,11 +5,12 @@ No Internet connection whatsoever is used.
 
 Download the latest version for your operating system.
 
+
 ## Auslender
 
 A satirical, motion-controlled action and kickboxing fitness game.
 
-![Auslender](https://raw.githubusercontent.com/dinamika-games/auslender/main/docs/gameplay.gif)
+![Auslender](https://media.githubusercontent.com/media/dinamika-games/auslender/main/docs/gameplay.gif)
 
 **Download:** [Windows](https://github.com/dinamika-games/auslender/releases/download/v1.0.0/auslender-1.0.0-windows-x86_64.zip) | [macOS](https://github.com/dinamika-games/auslender/releases/download/v1.0.0/auslender-1.0.0-macos-universal.zip) | [Linux](https://github.com/dinamika-games/auslender/releases/download/v1.0.0/auslender-1.0.0-linux-x86_64.zip)
 
@@ -19,7 +20,7 @@ A satirical, motion-controlled action and kickboxing fitness game.
 
 Sail across the Adriatic by performing bird-dog exercises, explore ports and solve mysteries.
 
-![Bird Dog](https://raw.githubusercontent.com/dinamika-games/bird-dog/main/docs/bird-dog.gif)
+![Bird Dog](https://media.githubusercontent.com/media/dinamika-games/bird-dog/main/docs/bird-dog.gif)
 
 **Download:** [Windows](https://github.com/dinamika-games/bird-dog/releases/download/v1.0.0/bird-dog-1.0.0-windows-x86_64.zip) | [macOS](https://github.com/dinamika-games/bird-dog/releases/download/v1.0.0/bird-dog-1.0.0-macos-universal.zip) | [Linux](https://github.com/dinamika-games/bird-dog/releases/download/v1.0.0/bird-dog-1.0.0-linux-x86_64.zip)
 
@@ -29,7 +30,7 @@ Sail across the Adriatic by performing bird-dog exercises, explore ports and sol
 
 Vacuum clean and cross-country ski using your body as the controller.
 
-![Ergo Chaos](https://raw.githubusercontent.com/dinamika-games/ergo-chaos/main/docs/ergo-chaos.gif)
+![Ergo Chaos](https://media.githubusercontent.com/media/dinamika-games/ergo-chaos/main/docs/ergo-chaos.gif)
 
 **Download:** [Windows](https://github.com/dinamika-games/ergo-chaos/releases/download/v1.0.1/ergo-chaos-v1.0.1-windows-x86_64.zip) | [macOS](https://github.com/dinamika-games/ergo-chaos/releases/download/v1.0.1/ergo-chaos-v1.0.1-macos-universal.zip) | [Linux](https://github.com/dinamika-games/ergo-chaos/releases/download/v1.0.1/ergo-chaos-v1.0.1-linux-x86_64.zip)
 
@@ -39,7 +40,7 @@ Vacuum clean and cross-country ski using your body as the controller.
 
 Repel the head invaders by moving your head!
 
-![Head Invaders](https://raw.githubusercontent.com/dinamika-games/head-invaders/main/docs/gameplay.gif)
+![Head Invaders](https://media.githubusercontent.com/media/dinamika-games/head-invaders/main/docs/gameplay.gif)
 
 **Download:** [Windows](https://github.com/dinamika-games/head-invaders/releases/download/1.0.1/head-invaders-1.0.1-windows-x86_64.zip) | [macOS](https://github.com/dinamika-games/head-invaders/releases/download/1.0.1/head-invaders-1.0.1-macos-universal.zip) | [Linux](https://github.com/dinamika-games/head-invaders/releases/download/1.0.1/head-invaders-1.0.1-linux-x86_64.zip)
 
@@ -49,7 +50,7 @@ Repel the head invaders by moving your head!
 
 Aim with your hands, throw snowballs and splash water using hand gestures.
 
-![Splash 'n' Splat](https://raw.githubusercontent.com/dinamika-games/splash-n-splat/main/docs/splash-n-splat.gif)
+![Splash 'n' Splat](https://media.githubusercontent.com/media/dinamika-games/splash-n-splat/main/docs/splash-n-splat.gif)
 
 **Download:** [Windows](https://github.com/dinamika-games/splash-n-splat/releases/download/v1.0.0/splash-n-splat-v1.0.0-windows-x86_64.zip) | [macOS](https://github.com/dinamika-games/splash-n-splat/releases/download/v1.0.0/splash-n-splat-v1.0.0-macos-universal.zip) | [Linux](https://github.com/dinamika-games/splash-n-splat/releases/download/v1.0.0/splash-n-splat-v1.0.0-linux-x86_64.zip)
 
@@ -59,7 +60,7 @@ Aim with your hands, throw snowballs and splash water using hand gestures.
 
 Ride across the vast Kazakh steppe, find lost animals and bring them home.
 
-![Steppe Rescue](https://raw.githubusercontent.com/dinamika-games/steppe-rescue/main/docs/steppe-rescue.gif)
+![Steppe Rescue](https://media.githubusercontent.com/media/dinamika-games/steppe-rescue/main/docs/steppe-rescue.gif)
 
 **Download:** [Windows](https://github.com/dinamika-games/steppe-rescue/releases/download/v1.0.0.0/steppe-rescue-v1.0.0.0-windows-x86_64.zip) | [macOS](https://github.com/dinamika-games/steppe-rescue/releases/download/v1.0.0.0/steppe-rescue-v1.0.0.0-macos.zip) | [Linux](https://github.com/dinamika-games/steppe-rescue/releases/download/v1.0.0.0/steppe-rescue-v1.0.0.0-linux-x86_64.zip)
 
@@ -80,6 +81,7 @@ Jump around and mine your way to the diamonds.
 **Coming soon.**
 
 **[Read more & source code](https://github.com/dinamika-games/jump-n-mine)**
+
 
 # Manifesto of Dinamika Games
 
