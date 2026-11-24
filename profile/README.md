@@ -76,12 +76,13 @@ Follow a Viking party boat and rescue sailors and belongings that have fallen ov
 
 ## Jump 'n' Mine
 
-Jump around and mine your way to the diamonds.
+Jump, dig and collect gems and treasures as a dwarf miner in an underground adventure.
 
-**Coming soon.**
+![Jump 'n' Mine](https://media.githubusercontent.com/media/dinamika-games/jump-n-mine/v1.0.0/docs/jump-n-mine.gif)
+
+**Download:** [Latest release](https://github.com/dinamika-games/jump-n-mine/releases/latest)
 
 **[Read more & source code](https://github.com/dinamika-games/jump-n-mine)**
-
 
 # Manifesto of Dinamika Games
 
