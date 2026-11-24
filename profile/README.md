@@ -48,7 +48,7 @@ Repel the head invaders by moving your head!
 
 ## Splash 'n' Splat
 
-Aim with your hands, throw snowballs and splash water using hand gestures.
+Aim with your hands and have a fun game of snowball.
 
 ![Splash 'n' Splat](https://media.githubusercontent.com/media/dinamika-games/splash-n-splat/main/docs/splash-n-splat.gif)
 
