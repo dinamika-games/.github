@@ -30,7 +30,7 @@ Sail across the Adriatic by performing bird-dog exercises, explore ports and sol
 
 Vacuum clean and cross-country ski using your body as the controller.
 
-![Ergo Chaos](https://media.githubusercontent.com/media/dinamika-games/ergo-chaos/main/docs/ergo-chaos.gif)
+![Ergo Chaos](https://raw.githubusercontent.com/dinamika-games/ergo-chaos/main/docs/ergo-chaos.gif)
 
 **Download:** [Windows](https://github.com/dinamika-games/ergo-chaos/releases/download/v1.0.1/ergo-chaos-v1.0.1-windows-x86_64.zip) | [macOS](https://github.com/dinamika-games/ergo-chaos/releases/download/v1.0.1/ergo-chaos-v1.0.1-macos-universal.zip) | [Linux](https://github.com/dinamika-games/ergo-chaos/releases/download/v1.0.1/ergo-chaos-v1.0.1-linux-x86_64.zip)
 
@@ -40,7 +40,7 @@ Vacuum clean and cross-country ski using your body as the controller.
 
 Repel the head invaders by moving your head!
 
-![Head Invaders](https://media.githubusercontent.com/media/dinamika-games/head-invaders/main/docs/gameplay.gif)
+![Head Invaders](https://raw.githubusercontent.com/dinamika-games/head-invaders/main/docs/gameplay.gif)
 
 **Download:** [Windows](https://github.com/dinamika-games/head-invaders/releases/download/1.0.1/head-invaders-1.0.1-windows-x86_64.zip) | [macOS](https://github.com/dinamika-games/head-invaders/releases/download/1.0.1/head-invaders-1.0.1-macos-universal.zip) | [Linux](https://github.com/dinamika-games/head-invaders/releases/download/1.0.1/head-invaders-1.0.1-linux-x86_64.zip)
 
