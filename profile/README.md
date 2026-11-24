@@ -1,45 +1,20 @@
 # Games
 
-<script>
-async function download() {
-    const params = new URLSearchParams(location.search);
-    const game = params.get("game");
-    const platform = params.get("platform");
-
-    const response = await fetch(
-        `https://api.github.com/repos/dinamika-games/${game}/releases/latest`
-    );
-
-    const release = await response.json();
-    const asset = release.assets.find(
-        asset => asset.name.toLowerCase().includes(platform)
-    );
-
-    if (asset) {
-        location.replace(asset.browser_download_url);
-    } else {
-        document.body.textContent = "Download not available.";
-    }
-}
-
-download().catch(() => {
-    document.body.textContent = "Could not retrieve the latest release.";
-});
-</script>
-
 All games are free and open source.
 No Internet connection whatsoever is used.
 
 Download the latest version for your operating system:
 
-- **Auslender** — [Windows](https://dinamika-games.github.io/download.html?game=auslender&platform=windows) | [macOS](https://dinamika-games.github.io/download.html?game=auslender&platform=macos) | [Linux](https://dinamika-games.github.io/download.html?game=auslender&platform=linux)
-- **Bird Dog** — [Windows](https://dinamika-games.github.io/download.html?game=bird-dog&platform=windows) | [macOS](https://dinamika-games.github.io/download.html?game=bird-dog&platform=macos) | [Linux](https://dinamika-games.github.io/download.html?game=bird-dog&platform=linux)
-- **Drunken Vikings** — [Windows](https://dinamika-games.github.io/download.html?game=drunken-vikings&platform=windows) | [macOS](https://dinamika-games.github.io/download.html?game=drunken-vikings&platform=macos) | [Linux](https://dinamika-games.github.io/download.html?game=drunken-vikings&platform=linux)
-- **Ergo Chaos** — [Windows](https://dinamika-games.github.io/download.html?game=ergo-chaos&platform=windows) | [macOS](https://dinamika-games.github.io/download.html?game=ergo-chaos&platform=macos) | [Linux](https://dinamika-games.github.io/download.html?game=ergo-chaos&platform=linux)
-- **Head Invaders** — [Windows](https://dinamika-games.github.io/download.html?game=head-invaders&platform=windows) | [macOS](https://dinamika-games.github.io/download.html?game=head-invaders&platform=macos) | [Linux](https://dinamika-games.github.io/download.html?game=head-invaders&platform=linux)
-- **Jump 'n' Mine** — [Windows](https://dinamika-games.github.io/download.html?game=jump-n-mine&platform=windows) | [macOS](https://dinamika-games.github.io/download.html?game=jump-n-mine&platform=macos) | [Linux](https://dinamika-games.github.io/download.html?game=jump-n-mine&platform=linux)
-- **Splash 'n' Splat** — [Windows](https://dinamika-games.github.io/download.html?game=splash-n-splat&platform=windows) | [macOS](https://dinamika-games.github.io/download.html?game=splash-n-splat&platform=macos) | [Linux](https://dinamika-games.github.io/download.html?game=splash-n-splat&platform=linux)
-- **Steppe Rescue** — [Windows](https://dinamika-games.github.io/download.html?game=steppe-rescue&platform=windows) | [macOS](https://dinamika-games.github.io/download.html?game=steppe-rescue&platform=macos) | [Linux](https://dinamika-games.github.io/download.html?game=steppe-rescue&platform=linux)
+## Download and Play
+
+* **Auslender** — [Windows](https://github.com/dinamika-games/auslender/releases/download/v1.0.0/auslender-1.0.0-windows-x86_64.zip) | [macOS](https://github.com/dinamika-games/auslender/releases/download/v1.0.0/auslender-1.0.0-macos-universal.zip) | [Linux](https://github.com/dinamika-games/auslender/releases/download/v1.0.0/auslender-1.0.0-linux-x86_64.zip)
+* **Bird Dog** — [Windows](https://github.com/dinamika-games/bird-dog/releases/download/v1.0.0/bird-dog-1.0.0-windows-x86_64.zip) | [macOS](https://github.com/dinamika-games/bird-dog/releases/download/v1.0.0/bird-dog-1.0.0-macos-universal.zip) | [Linux](https://github.com/dinamika-games/bird-dog/releases/download/v1.0.0/bird-dog-1.0.0-linux-x86_64.zip)
+* **Ergo Chaos** — [Windows](https://github.com/dinamika-games/ergo-chaos/releases/download/v1.0.1/ergo-chaos-v1.0.1-windows-x86_64.zip) | [macOS](https://github.com/dinamika-games/ergo-chaos/releases/download/v1.0.1/ergo-chaos-v1.0.1-macos-universal.zip) | [Linux](https://github.com/dinamika-games/ergo-chaos/releases/download/v1.0.1/ergo-chaos-v1.0.1-linux-x86_64.zip)
+* **Head Invaders** — [Windows](https://github.com/dinamika-games/head-invaders/releases/download/1.0.1/head-invaders-1.0.1-windows-x86_64.zip) | [macOS](https://github.com/dinamika-games/head-invaders/releases/download/1.0.1/head-invaders-1.0.1-macos-universal.zip) | [Linux](https://github.com/dinamika-games/head-invaders/releases/download/1.0.1/head-invaders-1.0.1-linux-x86_64.zip)
+* **Splash 'n' Splat** — [Windows](https://github.com/dinamika-games/splash-n-splat/releases/download/v1.0.0/splash-n-splat-v1.0.0-windows-x86_64.zip) | [macOS](https://github.com/dinamika-games/splash-n-splat/releases/download/v1.0.0/splash-n-splat-v1.0.0-macos-universal.zip) | [Linux](https://github.com/dinamika-games/splash-n-splat/releases/download/v1.0.0/splash-n-splat-v1.0.0-linux-x86_64.zip)
+* **Steppe Rescue** — [Windows](https://github.com/dinamika-games/steppe-rescue/releases/download/v1.0.0.0/steppe-rescue-v1.0.0.0-windows-x86_64.zip) | [macOS](https://github.com/dinamika-games/steppe-rescue/releases/download/v1.0.0.0/steppe-rescue-v1.0.0.0-macos.zip) | [Linux](https://github.com/dinamika-games/steppe-rescue/releases/download/v1.0.0.0/steppe-rescue-v1.0.0.0-linux-x86_64.zip)
+* **Drunken Vikings** — Coming soon
+* **Jump 'n' Mine** — Coming soon
 
 # Manifesto of Dinamika Games
 
