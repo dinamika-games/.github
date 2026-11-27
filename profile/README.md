@@ -57,7 +57,9 @@ Ride across the vast Kazakh steppe, find lost animals and bring them home.
 
 Follow a Viking party boat and rescue sailors and belongings that have fallen overboard.
 
-**Coming soon.**
+![Drunken Vikings](https://media.githubusercontent.com/media/dinamika-games/drunken-vikings/main/docs/gameplay.gif)
+
+**Download:** [Windows](https://github.com/dinamika-games/drunken-vikings/releases/download/v1.0.0/drunken-vikings-1.0.0-windows.zip) | [macOS](https://github.com/dinamika-games/drunken-vikings/releases/download/v1.0.0/drunken-vikings-1.0.0-macos.zip) | [Linux](https://github.com/dinamika-games/drunken-vikings/releases/download/v1.0.0/drunken-vikings-1.0.0-linux.zip)
 
 **[Read more & source code](https://github.com/dinamika-games/drunken-vikings)**
 
