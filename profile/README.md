@@ -3,19 +3,6 @@
 All games are free and open source.
 No Internet connection whatsoever is used.
 
-Download the latest version for your operating system.
-
-
-## Auslender
-
-A satirical, motion-controlled action and kickboxing fitness game.
-
-![Auslender](https://media.githubusercontent.com/media/dinamika-games/auslender/main/docs/gameplay.gif)
-
-**Download:** [Windows](https://github.com/dinamika-games/auslender/releases/download/v1.0.0/auslender-1.0.0-windows-x86_64.zip) | [macOS](https://github.com/dinamika-games/auslender/releases/download/v1.0.0/auslender-1.0.0-macos-universal.zip) | [Linux](https://github.com/dinamika-games/auslender/releases/download/v1.0.0/auslender-1.0.0-linux-x86_64.zip)
-
-**[Read more & source code](https://github.com/dinamika-games/auslender)**
-
 ## Bird Dog
 
 Sail across the Adriatic by performing bird-dog exercises, explore ports and solve mysteries.
