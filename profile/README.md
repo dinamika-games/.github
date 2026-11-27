@@ -55,7 +55,11 @@ Ride across the vast Kazakh steppe, find lost animals and bring them home.
 
 ## Drunken Vikings
 
-Follow a Viking party boat and rescue sailors and belongings that have fallen overboard.
+Row in front of your webcam, alone or with a friend, and train your abs as a Viking. Three ways to play:
+
+* **Party:** row behind the wedding longship and pick up the treats that fall into the water. There is nothing to lose, which makes it good for the smaller children.
+* **Chase:** row to the next town before the pirates catch you.
+* **The farm:** trade goods between the settlements, help the people of the lakes and look after your farm.
 
 ![Drunken Vikings](https://media.githubusercontent.com/media/dinamika-games/drunken-vikings/main/docs/gameplay.gif)
 
